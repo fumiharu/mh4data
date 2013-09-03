@@ -1,0 +1,146 @@
+{
+"Root":{
+"SecondRoot":[
+		{
+		"Label":"キークエスト",
+		"Image":"http://localhost:8888/gmail.png",
+		"KeyQuestDetailData":
+				[{
+				"sectionTitle":"村1",
+				"DataInSection":["1-1"]
+				},
+				{
+				"sectionTitle":"村2",
+				"DataInSection":["2-1", "2-2"]
+				},
+				{
+				"sectionTitle":"村3",
+				"DataInSection":["3-1", "3-2", "3-3"]
+				},
+				{
+				"sectionTitle":"村4",
+				"DataInSection":["4-1", "4-2", "4-3", "4-4"]
+				}]
+		},
+		{
+		"Label": "モンスター弱点リスト", 
+		"Image": "http://localhost:8888/gmail.png",
+		"WeakPointOfMonsterDetailData":
+				[{
+				"MonsterNameDataInSection":"アオアシラ",
+				"WeakPointOfMonsterDataInSection":"火:◎ 雷:× 水:△",
+				"asdd":"http://www.mhp3rd.net/book/images/aoasira.gif"
+				},
+				{
+				"MonsterNameDataInSection":"ジンオウガ",
+				"WeakPointOfMonsterDataInSection":"火:◎ 雷:× 水:△",
+				"asdd":"http://mhp3.g-takumi.com/images/monster/17.jpg"
+				}]
+
+		},
+		{
+		"Label": "調合リスト", 
+		"Image": "http://localhost:8888/gmail.png",
+		"MixItemList":
+			{
+			"MixItemDetailData":
+					[{
+					"MixItemDetailSectionTitle":"消耗品",
+					"MixItemDetailDataInSection":
+								[{
+								"MixedItemResultDataInSection":"回復薬",
+								"MixedItemDataInSection":"薬草 + アオキノコ",
+								"MixedItemResultSuccess":"1%",
+								"MixedItemResultUp":"1"
+								},
+								{
+								"MixedItemResultDataInSection":"回復薬グレーと",
+								"MixedItemDataInSection":"回復薬 + アオキノコ",
+								"MixedItemResultSuccess":"80%",
+								"MixedItemResultUp":"10"
+								}]
+					},
+					{
+					"MixItemDetailSectionTitle":"罠",
+					"MixItemDetailDataInSection":
+								[{
+								"MixedItemResultDataInSection":"爆薬",
+								"MixedItemDataInSection":"薬草 + アオキノコ",
+								"MixedItemResultSuccess":"80%",
+								"MixedItemResultUp":"2"
+								},
+								{
+								"MixedItemResultDataInSection":"爆薬大",
+								"MixedItemDataInSection":"薬草 + アオキノコノコ",
+								"MixedItemResultSuccess":"100%",
+								"MixedItemResultUp":"3"
+								}]
+					}]
+
+			}
+		},
+		{
+		"Label":"スキル一覧",
+		"SkillDetailList":
+				[{
+				"SkillDetailListSectionTitle":"パラメータ上昇系",
+				"SkillDetailDataInSection":
+							[{
+							"SkillDetailDataTitle":"攻撃",
+							"SkillDescription":"攻撃力が大きく上昇する",
+							"SkillDetailDataList":
+										[{
+										"TriggeredPointOfSkill":"+20",
+										"SkillName":"攻撃力UP【大】",
+										"EffectiveSkill":"攻撃力が大きく上昇する (基本攻撃力+20)"
+										},
+										{
+										"TriggeredPointOfSkill":"+10",
+										"SkillName":"攻撃力UP【中】",
+										"EffectiveSkill":"攻撃力が少し上昇する (基本攻撃力+10)"
+										}]
+								},
+								{
+							"SkillDetailDataTitle":"防御",
+							"SkillDescription":"防御力が大きく上昇する",
+							"SkillDetailDataList":
+										[{
+										"TriggeredPointOfSkill":"+20",
+										"SkillName":"攻撃力UP【大】",
+										"EffectiveSkill":"攻撃力が大きく上昇する (基本攻撃力+20)"
+										}]
+							}]
+				},
+				{
+				"SkillDetailListSectionTitle":"戦闘系(剣士)",
+				"SkillDetailDataInSection":
+							[{
+							"SkillDetailDataTitle":"斬れ味",
+							"SkillDescription":"防御力が大きく上昇する",
+							"SkillDetailDataList":
+										[{
+										"TriggeredPointOfSkill":"+20",
+										"SkillName":"攻撃力UP【大】",
+										"EffectiveSkill":"攻撃力が大きく上昇する (基本攻撃力+20)"
+										},
+										{
+										"TriggeredPointOfSkill":"+10",
+										"SkillName":"攻撃力UP【中】",
+										"EffectiveSkill":"攻撃力が少し上昇する (基本攻撃力+10)"
+										}]
+								},
+								{
+							"SkillDetailDataTitle":"匠",
+							"SkillDescription":"防御力aが大きく上昇する",
+							"SkillDetailDataList":
+										[{
+										"TriggeredPointOfSkill":"+20",
+										"SkillName":"攻撃力UP【大】",
+										"EffectiveSkill":"攻撃力が大きく上昇する (基本攻撃力+20)"
+										}]
+							}]
+
+				}]
+		}
+	]}
+}
