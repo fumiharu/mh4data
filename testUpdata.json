@@ -292,26 +292,51 @@
 							"SkillDetailDataTitle":"攻撃",
 							"SkillDescription":"攻撃力が大きく上昇する",
 							"SkillDetailDataList":
-										[{
-										"TriggeredPointOfSkill":"+20",
-										"SkillName":"攻撃力UP【大】",
-										"EffectiveSkill":"攻撃力が大きく上昇する (基本攻撃力+20)"
-										},
 										{
-										"TriggeredPointOfSkill":"+10",
-										"SkillName":"攻撃力UP【中】",
-										"EffectiveSkill":"攻撃力が少し上昇する (基本攻撃力+10)"
-										}]
-								},
-								{
+										"SkillName0":"攻撃力UP【大】",
+										"TriggeredPointOfSkill0":"+20",
+										"EffectiveSkill0":"攻撃力が大きく上昇する (基本攻撃力+20)",
+										"SkillName1":"攻撃力UP【中】",
+										"TriggeredPointOfSkill1":"+15",
+										"EffectiveSkill1":"攻撃力が大きく上昇する (基本攻撃力+15)",
+										"SkillName2":"攻撃力UP【小】",
+										"TriggeredPointOfSkill2":"+10",
+										"EffectiveSkill2":"攻撃力が大きく上昇する (基本攻撃力+10)",
+										"SkillName3":"攻撃力DOWN【小】",
+										"TriggeredPointOfSkill3":"-10",
+										"EffectiveSkill3":"攻撃力が少し減少する (基本攻撃力-5)",
+										"SkillName4":"攻撃力DOWN【中】",
+										"TriggeredPointOfSkill4":"-15",
+										"EffectiveSkill4":"攻撃力が少し減少する (基本攻撃力-10)",
+										"SkillName5":"攻撃力DOWN【大】",
+										"TriggeredPointOfSkill5":"-20",
+										"EffectiveSkill5":"攻撃力が少し減少する (基本攻撃力-15)"
+										}
+							},
+							{
 							"SkillDetailDataTitle":"防御",
 							"SkillDescription":"防御力が大きく上昇する",
 							"SkillDetailDataList":
-										[{
-										"TriggeredPointOfSkill":"+20",
-										"SkillName":"攻撃力UP【大】",
-										"EffectiveSkill":"攻撃力が大きく上昇する (基本攻撃力+20)"
-										}]
+										{
+										"SkillName0":"1+攻撃力UP【大】",
+										"TriggeredPointOfSkill0":"値+20",
+										"EffectiveSkill0":"攻撃力が大きく上昇する (基本攻撃力+20)",
+										"SkillName1":"",
+										"TriggeredPointOfSkill1":"",
+										"EffectiveSkill1":"",
+										"SkillName2":"",
+										"TriggeredPointOfSkill2":"",
+										"EffectiveSkill2":"",
+										"SkillName3":"",
+										"TriggeredPointOfSkill3":"",
+										"EffectiveSkill3":"",
+										"SkillName4":"",
+										"TriggeredPointOfSkill4":"",
+										"EffectiveSkill4":"",
+										"SkillName5":"",
+										"TriggeredPointOfSkill5":"",
+										"EffectiveSkill5":""
+										}
 							}]
 				},
 				{
@@ -321,26 +346,51 @@
 							"SkillDetailDataTitle":"斬れ味",
 							"SkillDescription":"防御力が大きく上昇する",
 							"SkillDetailDataList":
-										[{
-										"TriggeredPointOfSkill":"+20",
-										"SkillName":"攻撃力UP【大】",
-										"EffectiveSkill":"攻撃力が大きく上昇する (基本攻撃力+20)"
-										},
 										{
-										"TriggeredPointOfSkill":"+10",
-										"SkillName":"攻撃力UP【中】",
-										"EffectiveSkill":"攻撃力が少し上昇する (基本攻撃力+10)"
-										}]
-								},
-								{
+										"SkillName0":"攻撃力UP【大】",
+										"TriggeredPointOfSkill0":"+20",
+										"EffectiveSkill0":"攻撃力が大きく上昇する (基本攻撃力+20)",
+										"SkillName1":"攻撃力UP【中】",
+										"TriggeredPointOfSkill1":"+15",
+										"EffectiveSkill1":"攻撃力が大きく上昇する (基本攻撃力+15)",
+										"SkillName2":"攻撃力UP【小】",
+										"TriggeredPointOfSkill2":"+10",
+										"EffectiveSkill2":"攻撃力が大きく上昇する (基本攻撃力+10)",
+										"SkillName3":"攻撃力DOWN【小】",
+										"TriggeredPointOfSkill3":"-10",
+										"EffectiveSkill3":"攻撃力が少し減少する (基本攻撃力-5)",
+										"SkillName4":"攻撃力DOWN【中】",
+										"TriggeredPointOfSkill4":"-15",
+										"EffectiveSkill4":"攻撃力が少し減少する (基本攻撃力-10)",
+										"SkillName5":"攻撃力DOWN【大】",
+										"TriggeredPointOfSkill5":"-20",
+										"EffectiveSkill5":"攻撃力が少し減少する (基本攻撃力-15)"
+										}
+							},
+							{
 							"SkillDetailDataTitle":"匠",
 							"SkillDescription":"防御力aが大きく上昇する",
 							"SkillDetailDataList":
-										[{
-										"TriggeredPointOfSkill":"+20",
-										"SkillName":"攻撃力UP【大】",
-										"EffectiveSkill":"攻撃力が大きく上昇する (基本攻撃力+20)"
-										}]
+										{
+										"SkillName0":"1+攻撃力UP【大】",
+										"TriggeredPointOfSkill0":"+20",
+										"EffectiveSkill0":"攻撃力が大きく上昇する (基本攻撃力+20)",
+										"SkillName1":"",
+										"TriggeredPointOfSkill1":"",
+										"EffectiveSkill1":"",
+										"SkillName2":"",
+										"TriggeredPointOfSkill2":"",
+										"EffectiveSkill2":"",
+										"SkillName3":"",
+										"TriggeredPointOfSkill3":"",
+										"EffectiveSkill3":"",
+										"SkillName4":"",
+										"TriggeredPointOfSkill4":"",
+										"EffectiveSkill4":"",
+										"SkillName5":"",
+										"TriggeredPointOfSkill5":"",
+										"EffectiveSkill5":""
+										}
 							}]
 
 				}]
@@ -400,7 +450,7 @@
 		"Label":"更新情報"
 		},
 		{
-		"Label":"検索a"
+		"Label":"検索"
 		}
 	]}
 }
