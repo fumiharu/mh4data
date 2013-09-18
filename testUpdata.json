@@ -7,31 +7,235 @@
 		"KeyQuestDetailData":
 				[{
 				"sectionTitle":"村★1",
-				"DataInSection":["生肉を美味しくせよ！ ボス:こんがり肉1個、または生焼け肉1個の納品", "調合の妙を学習せよ！ ボス:回復薬グレート1個の納品"]
+				"DataInSection":
+						[{
+						"MainData":"生肉を美味しくせよ！",
+						"SubData":"クリア条件:こんがり肉1個、または生焼け肉1個の納品"
+						},
+						{
+						"MainData":"調合の妙を学習せよ！",
+						"SubData":"クリア条件:回復薬グレート1個の納品"
+						}]
 				},
 				{
 				"sectionTitle":"村★2",
-				"DataInSection":["ジャギィノスの討伐 ボス:ジャギィノス5頭の討伐", "ケルビの角を納品せよ ボス:ケルビの角3本の納品", "行く手を阻むクンチュウを狩れ ボス:クンチュウ8匹の討伐", "アルセルタス、突撃！ ボス:アルセルタス1匹の狩猟", "探索クエスト「調査指令：ドスランポス」 ボス:ゴールへたどりつくだけで良い", "探索クエスト「調査指令：イャンクック」 ボス:ゴールへたどりつくだけで良い"]
+				"DataInSection":
+						[{
+						"MainData":"ジャギィノスの討伐",
+						"SubData":"クリア条件:ジャギィノス5頭の討伐"
+						},
+						{
+						"MainData":"ケルビの角を納品せよ",
+						"SubData":"クリア条件:ケルビの角3本の納品"
+						},
+						{
+						"MainData":"行く手を阻むクンチュウを狩れ",
+						"SubData":"クリア条件:クンチュウ8匹の討伐"
+						},
+						{
+						"MainData":"アルセルタス、突撃！",
+						"SubData":"クリア条件:アルセルタス1匹の狩猟"
+						},
+						{
+						"MainData":"探索クエスト「調査指令：ドスランポス」",
+						"SubData":"クリア条件:ゴールへたどりつくだけで良い"
+						},
+						{
+						"MainData":"探索クエスト「調査指令：イャンクック」",
+						"SubData":"クリア条件:ゴールへたどりつくだけで良い"
+						}]
 				},
 				{
-				"sectionTitle":"集会所★1",
-				"DataInSection":["美味との遭遇? ボス:アルセルタス1匹の狩猟", "ケチャワチャの横行を阻止せよ ボス:ケチャワチャの頭の狩猟", "鬼蛙テツカブラの狩猟 ボス:テツカブラ1頭の狩猟", "ゲリョス捕獲日記 ボス:ゲリョス1頭の捕獲"]
+				"sectionTitle":"村★3",
+				"DataInSection":
+						[{
+						"MainData":"【緊急】悪戯好きの奇猿狐を狩猟せよ",
+						"SubData":"クリア条件:ケチャワチャ1頭の狩猟"
+						},
+						{
+						"MainData":"危機て！テツカブラを狩れ！",
+						"SubData":"クリア条件:テツカブラ1頭の狩猟"
+						},
+						{
+						"MainData":"ゲリョスを狩猟せよ！",
+						"SubData":"クリア条件:ゲリョス1頭の狩猟"
+						},
+						{
+						"MainData":"ドスゲネポスの捕獲",
+						"SubData":"クリア条件:ドスゲネポス1頭の捕獲"
+						}]
 				},
 				{
-				"sectionTitle":"集会所★2",
-				"DataInSection":["【緊急】地底の捕食者・ネルスキュラ ボス:ネルスキュラ匹の狩猟", "女王、降臨す ボス:リオレイア1頭の狩猟", "ブヨブヨの感触を君に ボス:フルフル1頭の捕獲", "氷下に潜むザボアザギル ボス:ザボアザギル1頭の狩猟", "狩れ！ガララアジャラを！ ボス:ガララアジャラ1頭の狩猟"]
+				"sectionTitle":"村★4",
+				"DataInSection":
+						[{
+						"MainData":"【緊急】沈黙、狡猾、暗殺者の調べ",
+						"SubData":"クリア条件: ネルスキュラ1匹の狩猟"
+						},
+						{
+						"MainData":"ノラオトモ、危機一髪！",
+						"SubData":"クリア条件: ババコンガ1頭の狩猟"
+						},
+						{
+						"MainData":"モンニャン隊、危機一髪！",
+						"SubData":"クリア条件: ザボアザギル1頭の狩猟"
+						},
+						{
+						"MainData":"ガラアジャラの狩猟",
+						"SubData":"クリア条件:ガララアジャラ1頭の狩猟"
+						},
+						{
+						"MainData":"探索クエスト「ゴア・マガラ探索」",
+						"SubData":"クリア条件:ゴア・マガラに一定のダメージを与えて撤退させる"
+						}]
 				},
 				{
-				"sectionTitle":"集会所★3",
-				"DataInSection":["【緊急】黒き衣を纏う竜 ボス:ゴア・マガラ1頭の狩猟", "愛と恐怖のティガレックス ボス:ティガレックス", "地底火山の生ける鎧 ボス:グラビモス1頭の狩猟", "空の王者を捕らえてたてまつれ！ ボス:リオレウス1頭の捕獲", "縄張りに侵入するべからず ボス:ジンオウガ1頭の狩猟", "重量級の女帝 ボス:ゲネル・セルタス1頭の狩猟"]
+				"sectionTitle":"村★5",
+				"DataInSection":
+						[{
+						"MainData":"【緊急】黒く蝕み地を染めん",
+						"SubData":"クリア条件:ゴア・マガラ1頭の狩猟"
+						},
+						{
+						"MainData":"熱地に現る、グラビモス！",
+						"SubData":"クリア条件:グラビモス1頭の狩猟"
+						},
+						{
+						"MainData":"高難度：不穏の幕開け",
+						"SubData":"クリア条件:ババコンガ1頭の狩猟"
+						},
+						{
+						"MainData":"無双の狩人",
+						"SubData":"クリア条件:ジンオウガ1頭の狩猟"
+						},
+						{
+						"MainData":"重量級の女帝",
+						"SubData":"クリア条件:ゲネル・セルタス1頭の狩猟"
+						},
+						{
+						"MainData":"高難度：戦慄のティガレックス",
+						"SubData":"クリア条件:"
+						}]
 				},
 				{
-				"sectionTitle":"集会所4",
-				"DataInSection":["【緊急】高難度:砂を渡るは錆びた岩船 ボス:ダレン・モーラン1体の討伐", "人騒がせないたずら者たち ボス:ケチャワチャ2頭の狩猟", "紫色の毒怪鳥 ボス:ゲリョス亜種1頭の狩猟", "牙獣の品格 ボス:ババコンガ亜種1頭の狩猟", "朝雨狩猟の腕まくり ボス:ドスゲネポス1頭とテツカブラ1頭の狩猟"]
+				"sectionTitle":"村★6",
+				"DataInSection":
+						[{
+						"MainData":"【緊急】高難度：天を廻りて戻り来よ",
+						"SubData":"クリア条件: シャガルマダラの討伐"
+						}]
 				},
 				{
-				"sectionTitle":"集会所5",
-				"DataInSection":["【緊急】リオレイア亜種、現る ボス:リオレイア亜種1頭の討伐"]
+				"sectionTitle":"集会場★1",
+				"DataInSection":
+						[{
+						"MainData":"美味との遭遇?",
+						"SubData":"クリア条件:アルセルタス1匹の狩猟"
+						},
+						{
+						"MainData":"ケチャワチャの横行を阻止せよ",
+						"SubData":"クリア条件:ケチャワチャの1頭の狩猟"
+						},
+						{
+						"MainData":"鬼蛙テツカブラの狩猟",
+						"SubData":"クリア条件:テツカブラ1頭の狩猟"
+						},
+						{
+						"MainData":"ゲリョス捕獲日記",
+						"SubData":"クリア条件:ゲリョス1頭の捕獲"
+						}]
+				},				
+				{
+				"sectionTitle":"集会場★2",
+				"DataInSection":
+						[{
+						"MainData":"【緊急】地底の捕食者・ネルスキュラ",
+						"SubData":"クリア条件:ネルスキュラ1匹の狩猟"
+						},
+						{
+						"MainData":"女王、降臨す",
+						"SubData":"クリア条件:リオレイア1頭の狩猟"
+						},
+						{
+						"MainData":"ブヨブヨの感触を君に",
+						"SubData":"クリア条件:フルフル1頭の捕獲"
+						},
+						{
+						"MainData":"氷下に潜むザボアザギル",
+						"SubData":"クリア条件:ザボアザギル1頭の狩猟"
+						},
+						{
+						"MainData":"狩れ！ガララアジャラを！",
+						"SubData":"クリア条件:ガララアジャラ1頭の狩猟"
+						}]
+				},				
+				{
+				"sectionTitle":"集会場★3",
+				"DataInSection":
+						[{
+						"MainData":"【緊急】黒き衣を纏う竜",
+						"SubData":"クリア条件:ゴア・マガラ1頭の狩猟"
+						},
+						{
+						"MainData":"愛と恐怖のティガレックス",
+						"SubData":"クリア条件:ティガレックス1頭の狩猟"
+						},
+						{
+						"MainData":"地底火山の生ける鎧",
+						"SubData":"クリア条件:グラビモス1頭の狩猟"
+						},
+						{
+						"MainData":"空の王者を捕らえたてまつれ！",
+						"SubData":"クリア条件:リオレウス1頭の捕獲"
+						},
+						{
+						"MainData":"縄張りに侵入べからず",
+						"SubData":"クリア条件:ジンオウガ1頭の狩猟"
+						},
+						{
+						"MainData":"重量級の女帝",
+						"SubData":"クリア条件: ゲネル・セルタス1頭の狩猟"
+						}]
+				},				
+				{
+				"sectionTitle":"集会場★4",
+				"DataInSection":
+						[{
+						"MainData":"【緊急】高難度：砂を渡るは錆びた岩船",
+						"SubData":"クリア条件:ダレン・モーラン1体の討伐"
+						},
+						{
+						"MainData":"人騒がせないあたずら者たち",
+						"SubData":"クリア条件:ケチャワチャ2頭の狩猟"
+						},
+						{
+						"MainData":"紫色の毒怪鳥",
+						"SubData":"クリア条件:ゲリョス亜種1頭の狩猟"
+						},
+						{
+						"MainData":"牙獣の品格",
+						"SubData":"クリア条件:ババコンガ亜種1頭の狩猟"
+						},
+						{
+						"MainData":"朝雨狩猟の腕まくり",
+						"SubData":"クリア条件:ドスゲネポス1頭とテツカブラ1頭の狩猟"
+						}]
+				},				
+				{
+				"sectionTitle":"集会場★5",
+				"DataInSection":
+						[{
+						"MainData":"【緊急】リオレイア亜種、現る",
+						"SubData":"クリア条件:リオレイア亜種1頭の狩猟"
+						}]
+				},
+				{
+				"sectionTitle":"集会場★6",
+				"DataInSection":
+						[{
+						"MainData":"",
+						"SubData":"クリア条件:"
+						}]
 				}]
 		},
 		{
@@ -417,15 +621,15 @@
 							"AdornmentName":"攻撃魂",
 							"AdornmentEffect":"攻撃+1, 攻撃-1",
 							"AdornmentSlot":"◯--",
-							"AdornmentMaterial0":"seisan:aaa",
-							"AdornmentMaterial1":"強化:aaa",
+							"AdornmentMaterial0":"aaa",
+							"AdornmentMaterial1":"強化:aaa"
 							},
 							{
 							"AdornmentName":"攻撃2",
 							"AdornmentEffect":"攻撃+1, 攻撃-1",
 							"AdornmentSlot":"◯--",
-							"AdornmentMaterial0":"seisan:aaa",
-							"AdornmentMaterial1":"強化:aaa",
+							"AdornmentMaterial0":"aaa",
+							"AdornmentMaterial1":"強化:aaa"
 							}]
 				},
 				{	
@@ -435,15 +639,15 @@
 							"AdornmentName":"攻撃魂",
 							"AdornmentEffect":"攻撃+1, 攻撃-1",
 							"AdornmentSlot":"◯--",
-							"AdornmentMaterial0":"seisan:aaa",
-							"AdornmentMaterial1":"強化:aaa",
+							"AdornmentMaterial0":"aaa",
+							"AdornmentMaterial1":"強化:aaa"
 							},
 							{
 							"AdornmentName":"攻撃2",
 							"AdornmentEffect":"攻撃+1, 攻撃-1",
 							"AdornmentSlot":"◯--",
-							"AdornmentMaterial0":"seisan:aaa",
-							"AdornmentMaterial1":"強化:aaa",
+							"AdornmentMaterial0":"aaa",
+							"AdornmentMaterial1":"強化:aaa"
 							}]
 				},
 				{
@@ -453,8 +657,8 @@
 							"AdornmentName":"攻撃魂",
 							"AdornmentEffect":"攻撃+1, 攻撃-1",
 							"AdornmentSlot":"◯--",
-							"AdornmentMaterial0":"seisan:aaa",
-							"AdornmentMaterial1":"強化:aaa",
+							"AdornmentMaterial0":"aaa",
+							"AdornmentMaterial1":"強化:aaa"
 							}]
 				}]
 		},		
