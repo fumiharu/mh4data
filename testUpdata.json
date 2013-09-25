@@ -477,17 +477,270 @@
 		"Label": "モンスター弱点リスト", 
 		"Image": "http://localhost:8888/gmail.png",
 		"WeakPointOfMonsterDetailData":
-				[{
-				"MonsterNameDataInSection":"アオアシラ",
-				"WeakPointOfMonsterDataInSection":"火:◎ 雷:× 水:△",
-				"asdd":"http://www.mhp3rd.net/book/images/aoasira.gif"
-				},
-				{
-				"MonsterNameDataInSection":"ジンオウガ",
-				"WeakPointOfMonsterDataInSection":"火:◎ 雷:× 水:△",
-				"asdd":"http://mhp3.g-takumi.com/images/monster/17.jpg"
-				}]
-
+						[{
+						"SectionTitle":"鳥竜種",
+						"DataInSection":
+								[{
+								"MonsterNameDataInSection":"ドスジャギィ",
+								"WeakPointOfMonsterDataInSection":"火:◎ 水:○ 雷:○ 氷:○ 龍:△",
+								"asdd":"" 
+								},
+								{
+								"MonsterNameDataInSection":"ドスランポス",
+								"WeakPointOfMonsterDataInSection":"火:○ 水:○ 雷:○ 氷:◎ 龍:×",
+								"asdd":"" 
+								},
+								{
+								"MonsterNameDataInSection":"ドスゲネポス",
+								"WeakPointOfMonsterDataInSection":"火:○ 水:× 雷:○ 氷:◎ 龍:×",
+								"asdd":""  
+								},
+								{
+								"MonsterNameDataInSection":"ドスイーオス",
+								"WeakPointOfMonsterDataInSection":"火:▲ 水:◎ 雷:◎ 氷:▲ 龍:×",
+								"asdd":"" 
+								},
+								{ 
+								"MonsterNameDataInSection":"ゲリョス",
+								"WeakPointOfMonsterDataInSection":"火:◎ 水:▲ 雷:× 氷:○ 龍:▲",
+								"asdd":"" 
+								},
+								{ 
+								"MonsterNameDataInSection":"イャンクック",
+								"WeakPointOfMonsterDataInSection":"火:▲ 水:◎ 雷:○ 氷:○ 龍:×",
+								"asdd":"" 
+								},
+								{
+								"MonsterNameDataInSection":"イャンガルルガ",
+								"WeakPointOfMonsterDataInSection":"火:× 水:◎ 雷:× 氷:○ 龍:△",
+								"asdd":"" 
+								}]
+						},
+						{
+						"SectionTitle":"飛竜種",
+						"DataInSection":
+								[{
+								"MonsterNameDataInSection":"フルフル",
+								"WeakPointOfMonsterDataInSection":"火:◎ 水:▲ 雷:× 氷:▲ 龍:▲",
+								"asdd":"" 
+								},
+								{ 
+								"MonsterNameDataInSection":"フルフル亜種",
+								"WeakPointOfMonsterDataInSection":"火:▲ 水:◎ 雷:× 氷:▲ 龍:▲",
+								"asdd":"" 
+								},
+								{ 
+								"MonsterNameDataInSection":"リオレイア",
+								"WeakPointOfMonsterDataInSection":"火:× 水:△ 雷:○ 氷:△ 龍:◎",
+								"asdd":"" 
+								},
+								{ 
+								"MonsterNameDataInSection":"リオレイア亜種",
+								"WeakPointOfMonsterDataInSection":"火:× 水:△ 雷:○ 氷:△ 龍:◎",
+								"asdd":"" 
+								},
+								{ 
+								"MonsterNameDataInSection":"リオレイア希少種",
+								"WeakPointOfMonsterDataInSection":"火:× 水:○ 雷:◎ 氷:△ 龍:×",
+								"asdd":"" 
+								},
+								{ 
+								"MonsterNameDataInSection":"リオレウス",
+								"WeakPointOfMonsterDataInSection":"火:× 水:△ 雷:○ 氷:△ 龍:◎",
+								"asdd":"" 
+								},
+								{ 
+								"MonsterNameDataInSection":"リオレウス亜種",
+								"WeakPointOfMonsterDataInSection":"火:× 水:△ 雷:△ 氷:○ 龍:◎",
+								"asdd":"" 
+								},
+								{ 
+								"MonsterNameDataInSection":"リオレウス希少種",
+								"WeakPointOfMonsterDataInSection":"火:× 水:○ 雷:◎ 氷:△ 龍:×",
+								"asdd":"" 
+								},
+								{ 
+								"MonsterNameDataInSection":"ティガレックス",
+								"WeakPointOfMonsterDataInSection":"火:× 水:△ 雷:◎ 氷:△ 龍:△",
+								"asdd":"" 
+								},
+								{ 
+								"MonsterNameDataInSection":"ティガレックス希少種",
+								"WeakPointOfMonsterDataInSection":"火:× 水:◎ 雷:× 氷:○ 龍:▲",
+								"asdd":"" 
+								},
+								{ 
+								"MonsterNameDataInSection":"バサルモス",
+								"WeakPointOfMonsterDataInSection":"火:▲ 水:○ 雷:▲ 氷:▲ 龍:◎",
+								"asdd":"" 
+								},
+								{ 
+								"MonsterNameDataInSection":"バサルモス亜種",
+								"WeakPointOfMonsterDataInSection":"火:▲ 水:○ 雷:▲ 氷:◎ 龍:×",
+								"asdd":"" 
+								},
+								{ 
+								"MonsterNameDataInSection":"グラビモス",
+								"WeakPointOfMonsterDataInSection":"火:× 水:○ 雷:▲ 氷:△ 龍:○",
+								"asdd":"" 
+								},
+								{ 
+								"MonsterNameDataInSection":"グラビモス亜種",
+								"WeakPointOfMonsterDataInSection":"火:× 水:○ 雷:▲ 氷:△ 龍:○",
+								"asdd":"" 
+								},
+								{ 
+								"MonsterNameDataInSection":"アカムトルム",
+								"WeakPointOfMonsterDataInSection":"火:× 水:△ 雷:○ 氷:× 龍:◎",
+								"asdd":"" 
+								}]
+						},
+						{
+						"SectionTitle":"獣竜種",
+						"DataInSection":
+								[{
+								"MonsterNameDataInSection":"ブラキディオス",
+								"WeakPointOfMonsterDataInSection":"火:× 水:○ 雷:▲ 氷:△ 龍:▲",
+								"asdd":""
+								},
+								{
+								"MonsterNameDataInSection":"イビルジョー",
+								"WeakPointOfMonsterDataInSection":"火:△ 水:△ 雷:◎ 氷:× 龍:◎",
+								"asdd":""
+								}]
+						},
+						{
+						"SectionTitle":"牙獣種",
+						"DataInSection":
+								[{
+								"MonsterNameDataInSection":"ババコンガ",
+								"WeakPointOfMonsterDataInSection":"火:◎ 水:○ 雷:△ 氷:○ 龍:×",
+								"asdd":""
+								},
+								{
+								"MonsterNameDataInSection":"ケチャワチャ",
+								"WeakPointOfMonsterDataInSection":"火:◎ 水:× 雷:○ 氷:▲ 龍:×",
+								"asdd":""
+								},
+								{
+								"MonsterNameDataInSection":"ウルクスス",
+								"WeakPointOfMonsterDataInSection":"火:◎ 水:× 雷:△ 氷:× 龍:×",
+								"asdd":""
+								},
+								{
+								"MonsterNameDataInSection":"ラージャン",
+								"WeakPointOfMonsterDataInSection":"火:× 水:△ 雷:× 氷:◎ 龍:×",
+								"asdd":""
+								}]
+						},
+						{
+						"SectionTitle":"甲虫種",
+						"DataInSection":
+								[{
+								"MonsterNameDataInSection":"アルセルタス",
+								"WeakPointOfMonsterDataInSection":"火:○ 水:▲ 雷:◎ 氷:▲ 龍:×",
+								"asdd":""
+								},
+								{
+								"MonsterNameDataInSection":"ゲネル・セルタス",
+								"WeakPointOfMonsterDataInSection":"火:◎ 水:× 雷:△ 氷:○ 龍:×",
+								"asdd":""
+								}]
+						},
+						{
+						"SectionTitle":"鋏角種",
+						"DataInSection":
+								[{
+								"MonsterNameDataInSection":"ネルスキュラ",
+								"WeakPointOfMonsterDataInSection":"火:○ 水:× 雷:○ 氷:▲ 龍:×",
+								"asdd":""
+								}]
+						},
+						{
+						"SectionTitle":"蛇竜種",
+						"DataInSection":
+								[{
+								"MonsterNameDataInSection":"ガララアジャラ",
+								"WeakPointOfMonsterDataInSection":"火:× 水:△ 雷:▲ 氷:◎ 龍:×",
+								"asdd":""
+								}]
+						},
+						{
+						"SectionTitle":"両生種",
+						"DataInSection":
+								[{
+								"MonsterNameDataInSection":"テツカブラ",
+								"WeakPointOfMonsterDataInSection":"火:× 水:◎ 雷:○ 氷:△ 龍:×",
+								"asdd":""
+								},
+								{
+								"MonsterNameDataInSection":"ザボアザギル",
+								"WeakPointOfMonsterDataInSection":"火:○ 水:× 雷:◎ 氷:× 龍:△",
+								"asdd":""
+								}]
+						},
+						{
+						"SectionTitle":"牙龍種",
+						"DataInSection":
+								[{
+								"MonsterNameDataInSection":"ジンオウガ",
+								"WeakPointOfMonsterDataInSection":"火:△ 水:○ 雷:× 氷:◎ 龍:▲",
+								"asdd":""
+								},
+								{
+								"MonsterNameDataInSection":"ジンオウガ亜種",
+								"WeakPointOfMonsterDataInSection":"火:▲ 水:○ 雷:◎ 氷:△ 龍:×",
+								"asdd":""
+								}]
+						},
+						{
+						"SectionTitle":"???????種",
+						"DataInSection":
+								[{
+								"MonsterNameDataInSection":"ゴア・マガラ",
+								"WeakPointOfMonsterDataInSection":"火:◎ 水:× 雷:△ 氷:▲ 龍:△",
+								"asdd":""
+								}]
+						},
+						{
+						"SectionTitle":"古龍種",
+						"DataInSection":
+								[{
+								"MonsterNameDataInSection":"シャガルマガラ",
+								"WeakPointOfMonsterDataInSection":"火:○ 水:× 雷:△ 氷:▲ 龍:◎",
+								"asdd":""
+								},
+								{
+								"MonsterNameDataInSection":"キリン",
+								"WeakPointOfMonsterDataInSection":"火:△ 水:△ 雷:× 氷:△ 龍:×",
+								"asdd":""
+								},
+								{
+								"MonsterNameDataInSection":"キリン亜種",
+								"WeakPointOfMonsterDataInSection":"火:○ 水:○ 雷:▲ 氷:× 龍:×",
+								"asdd":""
+								},
+								{
+								"MonsterNameDataInSection":"ダレン・モーラン",
+								"WeakPointOfMonsterDataInSection":"火:× 水:▲ 雷:◎ 氷:× 龍:◎",
+								"asdd":""
+								},
+								{
+								"MonsterNameDataInSection":"テオ・テスカトル",
+								"WeakPointOfMonsterDataInSection":"火:× 水:◎ 雷:▲ 氷:△ 龍:○",
+								"asdd":""
+								},
+								{
+								"MonsterNameDataInSection":"クシャルダオラ",
+								"WeakPointOfMonsterDataInSection":"火:▲ 水:▲ 雷:○ 氷:× 龍:◎",
+								"asdd":""
+								},
+								{
+								"MonsterNameDataInSection":"ダラ・アマデュラ",
+								"WeakPointOfMonsterDataInSection":"火:× 水:× 雷:△ 氷:△ 龍:◎",
+								"asdd":""
+								}]
+						}]
 		},
 		{
 		"Label": "調合リスト", 
