@@ -1,0 +1,30 @@
+{
+	"result": "OK",
+	"data": [{
+		"image_url": {
+			"default": "https:\/\/banner-mercari-jp.akamaized.net\/2017\/06\/kauru_install_sidemenu.jpg"
+		},
+		"intent": {
+			"open_external_url": "https:\/\/app.adjust.com\/lzsh4n"
+		},
+		"source": "kauru_sidebanner",
+		"text": "fugafuga"
+	}, {
+		"image_url": {
+			"default": "https:\/\/banner-mercari-jp.akamaized.net\/2017\/09\/12_mercari_box_side\/banner.png"
+		},
+		"intent": {
+			"activity": "WebActivity",
+			"extra": {
+				"url": "https:\/\/www.mercari.com\/jp\/box\/",
+				"modal": 1
+			}
+		},
+		"source": "MJP-2078-mercaribox-sidebanner",
+		"text": "hogehoge"
+	}],
+	"meta": {
+		"requested": 1520178636,
+		"exec_time": 0.015067
+	}
+}
